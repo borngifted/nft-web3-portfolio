@@ -1,0 +1,40 @@
+{
+  "name": "Infinite Inspiration",
+  "description": "Provides unlimited inspiration to the hopeless.",
+  "image": "ipfs://YOUR_CID_HERE/Infinite_Inspiration.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Champions of Hope"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 4,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Common",
+    "faction": "Champions of Hope",
+    "category": "character"
+  }
+}

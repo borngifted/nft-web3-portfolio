@@ -1,0 +1,40 @@
+{
+  "name": "Integrity Invincible",
+  "description": "An unbreakable force of truth and integrity.",
+  "image": "ipfs://YOUR_CID_HERE/Integrity_Invincible.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Integrity Invincibles"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 4,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Common",
+    "faction": "The Integrity Invincibles",
+    "category": "character"
+  }
+}

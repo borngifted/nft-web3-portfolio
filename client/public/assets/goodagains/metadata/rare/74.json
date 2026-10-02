@@ -1,0 +1,52 @@
+{
+  "name": "Goodness Glider",
+  "description": "Goodness Glider moves silently above the city, dropping packages of positivity to those below.",
+  "image": "ipfs://YOUR_CID_HERE/Goodness_Glider.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Champions of Hope"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Gliding Goodness"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Midnight Blue"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Glides silently through the night, delivering acts of goodness to those who need them most"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "Champions of Hope",
+    "category": "character"
+  }
+}

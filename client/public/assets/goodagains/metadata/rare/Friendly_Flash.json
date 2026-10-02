@@ -1,0 +1,52 @@
+{
+  "name": "Friendly Flash",
+  "description": "Friendly Flash makes friends at the speed of light, turning strangers into allies in an instant.",
+  "image": "ipfs://YOUR_CID_HERE/Friendly_Flash.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Selfless Syndicate"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Instant Friendship"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Bright Yellow"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Creates instant, genuine friendships with a single flash of their Quartz-powered smile"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Selfless Syndicate",
+    "category": "character"
+  }
+}

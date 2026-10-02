@@ -1,0 +1,52 @@
+{
+  "name": "The Great Goodie",
+  "description": "The Great Goodie radiates goodness so pure that even the most hardened hearts soften in their presence.",
+  "image": "ipfs://YOUR_CID_HERE/The_Great_Goodie.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Virtuous Vanguard"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Supreme Goodness"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Pure White"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Embodies the purest form of goodness, inspiring transformation on contact"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Virtuous Vanguard",
+    "category": "character"
+  }
+}

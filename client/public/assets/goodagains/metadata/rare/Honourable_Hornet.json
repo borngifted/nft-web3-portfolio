@@ -1,0 +1,52 @@
+{
+  "name": "Honourable Hornet",
+  "description": "Honourable Hornet buzzes through the city, stinging injustice and dishonor wherever it hides.",
+  "image": "ipfs://YOUR_CID_HERE/Honourable_Hornet.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Honor-bound Heroes"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Honor Sting"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Hornet Yellow"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Strikes at dishonor with precision stings that inject honor into corrupt situations"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Honor-bound Heroes",
+    "category": "character"
+  }
+}

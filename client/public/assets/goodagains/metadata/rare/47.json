@@ -1,0 +1,52 @@
+{
+  "name": "Honor-bound Hero",
+  "description": "Honor-bound Hero's strength grows with every promise kept and every oath fulfilled.",
+  "image": "ipfs://YOUR_CID_HERE/Honor_bound_Hero.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Honor-bound Heroes"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Oath Power"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Oath Gold"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Bound by an unbreakable oath to protect the innocent, gains power from keeping promises"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Honor-bound Heroes",
+    "category": "character"
+  }
+}

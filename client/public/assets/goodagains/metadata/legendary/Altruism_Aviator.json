@@ -1,0 +1,56 @@
+{
+  "name": "Altruism Aviator",
+  "description": "Altruism Aviator takes to the skies, spreading acts of selfless kindness from above. Their wings shimmer with Quartz energy.",
+  "image": "ipfs://YOUR_CID_HERE/Altruism_Aviator.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Altruistic Alliance"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Flight & Healing"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Sky Blue"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Soars above Jersey City, dropping Quartz-infused healing energy to communities below"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "A former troubled youth who discovered the joy of giving, transformed by BornGifted's Quartz"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 10,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Legendary",
+    "faction": "The Altruistic Alliance",
+    "category": "character"
+  }
+}

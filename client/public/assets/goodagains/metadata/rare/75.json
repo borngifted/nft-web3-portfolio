@@ -1,0 +1,52 @@
+{
+  "name": "Salvation Surge",
+  "description": "Salvation Surge sends waves of rescue energy that lift entire groups out of danger at once.",
+  "image": "ipfs://YOUR_CID_HERE/Salvation_Surge.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Salvation Squad"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Surge Rescue"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Surge Electric"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Creates surges of salvation energy that rescue multiple people simultaneously"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Salvation Squad",
+    "category": "character"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Trusty Tornado",
+  "description": "Trusty Tornado spins with the force of absolute reliability. In their presence, broken trust is restored and new bonds are forged.",
+  "image": "ipfs://YOUR_CID_HERE/Trusty_Tornado.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Sympathetic Storm"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Trust Tempest"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Steel Silver"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Creates whirlwinds of trust that sweep away suspicion and build unbreakable bonds"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Born from the unshakeable trust BornGifted placed in those everyone else had given up on"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 10,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Legendary",
+    "faction": "The Sympathetic Storm",
+    "category": "character"
+  }
+}

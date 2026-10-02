@@ -1,0 +1,56 @@
+{
+  "name": "Salvation Sprinter",
+  "description": "Salvation Sprinter races against despair itself, arriving in the nick of time to lift fallen spirits and restore hope.",
+  "image": "ipfs://YOUR_CID_HERE/Salvation_Sprinter.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Salvation Squad"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Speed Rescue"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "White Diamond"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Runs faster than light to rescue those on the brink of giving up hope"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Born from the urgency of BornGifted's mission to save every soul he could reach"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 10,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Legendary",
+    "faction": "The Salvation Squad",
+    "category": "character"
+  }
+}

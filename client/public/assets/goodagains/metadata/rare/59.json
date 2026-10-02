@@ -1,0 +1,52 @@
+{
+  "name": "Heroic Harmony",
+  "description": "Heroic Harmony brings discord into perfect tune, creating symphonies of cooperation from cacophonies of conflict.",
+  "image": "ipfs://YOUR_CID_HERE/Heroic_Harmony.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Heroic Enclave"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Harmonic Heroism"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Musical Gold"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Creates perfect harmony between conflicting forces, resolving disputes through heroic balance"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Heroic Enclave",
+    "category": "character"
+  }
+}

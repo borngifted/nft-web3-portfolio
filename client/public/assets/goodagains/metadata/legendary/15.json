@@ -1,0 +1,56 @@
+{
+  "name": "Luminary Liberator",
+  "description": "Luminary Liberator shines with the brilliance of a thousand suns, freeing trapped potential and illuminating the path to greatness.",
+  "image": "ipfs://YOUR_CID_HERE/Luminary_Liberator.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Serene Samaritans"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Illumination"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Solar Gold"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Radiates brilliant light that liberates minds from darkness and negativity"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Born when BornGifted held a Quartz rock up to the sun and saw infinite possibility"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 10,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Legendary",
+    "faction": "The Serene Samaritans",
+    "category": "character"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Sincere Supersonic",
+  "description": "Sincere Supersonic moves so fast that truth reaches every ear before lies have a chance to form.",
+  "image": "ipfs://YOUR_CID_HERE/Sincere_Supersonic.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Sympathetic Storm"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Honest Speed"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Sonic Silver"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Spreads honesty and sincerity at supersonic speeds throughout the community"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Sympathetic Storm",
+    "category": "character"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Justice Jester",
+  "description": "Justice Jester proves that laughter is the best weapon against injustice, exposing wrongs with clever wit.",
+  "image": "ipfs://YOUR_CID_HERE/Justice_Jester.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Justice Coalition"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Humorous Justice"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Jester Purple"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Uses humor and wit to expose injustice and bring joy to the oppressed"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Justice Coalition",
+    "category": "character"
+  }
+}

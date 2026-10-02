@@ -1,0 +1,52 @@
+{
+  "name": "Morally Miraculous",
+  "description": "Morally Miraculous works wonders of character transformation that defy explanation.",
+  "image": "ipfs://YOUR_CID_HERE/Morally_Miraculous.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Morally Marvelous"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Moral Miracles"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Miracle Gold"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Performs miracles of moral transformation, turning wrongdoers into do-gooders"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Morally Marvelous",
+    "category": "character"
+  }
+}

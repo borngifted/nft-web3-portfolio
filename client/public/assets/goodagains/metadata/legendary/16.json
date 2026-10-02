@@ -1,0 +1,56 @@
+{
+  "name": "Equitable Enigma",
+  "description": "Equitable Enigma is a mysterious force of balance. No one knows where they come from, but wherever they appear, fairness follows.",
+  "image": "ipfs://YOUR_CID_HERE/Equitable_Enigma.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Justice Coalition"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Balance Force"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Balanced Gray"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Mysteriously appears wherever inequality exists to restore perfect balance"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "An enigmatic being born from the Quartz's response to unfairness in the world"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 10,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Legendary",
+    "faction": "The Justice Coalition",
+    "category": "character"
+  }
+}

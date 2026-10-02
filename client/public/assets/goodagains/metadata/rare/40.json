@@ -1,0 +1,52 @@
+{
+  "name": "Empathic Dynamo",
+  "description": "Empathic Dynamo is an engine of emotional understanding, generating endless waves of empathy.",
+  "image": "ipfs://YOUR_CID_HERE/Empathic_Dynamo.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Empathic Syndicate"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Empathic Energy"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Electric Violet"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Generates unlimited empathic energy that powers community healing"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Empathic Syndicate",
+    "category": "character"
+  }
+}

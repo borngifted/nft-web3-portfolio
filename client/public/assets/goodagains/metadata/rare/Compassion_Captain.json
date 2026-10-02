@@ -1,0 +1,52 @@
+{
+  "name": "Compassion Captain",
+  "description": "Compassion Captain commands through empathy, inspiring their team to extraordinary acts of caring.",
+  "image": "ipfs://YOUR_CID_HERE/Compassion_Captain.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Compassionate Collective"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Compassionate Leadership"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Warm Amber"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Leads with such deep compassion that followers discover their own capacity for caring"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Compassionate Collective",
+    "category": "character"
+  }
+}

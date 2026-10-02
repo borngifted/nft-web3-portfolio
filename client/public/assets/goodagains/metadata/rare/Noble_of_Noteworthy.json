@@ -1,0 +1,52 @@
+{
+  "name": "Noble of Noteworthy",
+  "description": "Noble of Noteworthy raises the standard of every room they enter, making everyone feel worthy and seen.",
+  "image": "ipfs://YOUR_CID_HERE/Noble_of_Noteworthy.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Noble Legion"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Notable Presence"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Royal Purple"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Their mere presence elevates the dignity and worth of everyone around them"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Noble Legion",
+    "category": "character"
+  }
+}

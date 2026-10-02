@@ -1,0 +1,52 @@
+{
+  "name": "Goodwill Gusto",
+  "description": "Goodwill Gusto approaches every challenge with infectious enthusiasm and genuine desire to help.",
+  "image": "ipfs://YOUR_CID_HERE/Goodwill_Gusto.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Benevolent Brigade"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Enthusiastic Goodwill"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Sunshine Yellow"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Attacks problems with such enthusiastic goodwill that solutions appear spontaneously"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Benevolent Brigade",
+    "category": "character"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Righteous Rocket",
+  "description": "Righteous Rocket blazes across the sky, leaving trails of moral clarity in their wake.",
+  "image": "ipfs://YOUR_CID_HERE/Righteous_Rocket.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Champions of Hope"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Righteous Propulsion"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Rocket Red"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Rockets through the sky spreading righteous energy across wide areas"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "Champions of Hope",
+    "category": "character"
+  }
+}

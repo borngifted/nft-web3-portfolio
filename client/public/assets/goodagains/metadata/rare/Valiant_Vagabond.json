@@ -1,0 +1,52 @@
+{
+  "name": "Valiant Vagabond",
+  "description": "Valiant Vagabond wanders the streets with no fixed home but an infinite supply of courage and kindness.",
+  "image": "ipfs://YOUR_CID_HERE/Valiant_Vagabond.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Valiant Brotherhood"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Wandering Valor"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Wanderer Brown"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Roams freely, bringing acts of valor to wherever they are most needed"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Valiant Brotherhood",
+    "category": "character"
+  }
+}

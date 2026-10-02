@@ -1,0 +1,56 @@
+{
+  "name": "Sympathetic Streak",
+  "description": "Sympathetic Streak moves so fast that empathy spreads like wildfire. Their trail of understanding lights up the darkest neighborhoods.",
+  "image": "ipfs://YOUR_CID_HERE/Sympathetic_Streak.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Sympathetic Storm"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Emotional Speed"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Twilight Blue"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Races through communities leaving trails of sympathy and understanding in their wake"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Created from the speed at which BornGifted could connect with someone's pain"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 10,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Legendary",
+    "faction": "The Sympathetic Storm",
+    "category": "character"
+  }
+}

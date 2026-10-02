@@ -1,0 +1,56 @@
+{
+  "name": "Empathetic Enchanter",
+  "description": "Empathetic Enchanter weaves spells of understanding and connection. Their magic turns strangers into friends and enemies into allies.",
+  "image": "ipfs://YOUR_CID_HERE/Empathetic_Enchanter.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Empathic Syndicate"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Emotional Magic"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Mystic Violet"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Enchants others with deep understanding, breaking curses of isolation and loneliness"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "A former lonely soul who BornGifted connected with, now spreading connection everywhere"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 10,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Legendary",
+    "faction": "The Empathic Syndicate",
+    "category": "character"
+  }
+}

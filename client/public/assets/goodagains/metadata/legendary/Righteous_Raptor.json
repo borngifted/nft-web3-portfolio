@@ -1,0 +1,56 @@
+{
+  "name": "Righteous Raptor",
+  "description": "Righteous Raptor swoops down on injustice with the precision and fury of a bird of prey. Their talons grip the Quartz of righteousness.",
+  "image": "ipfs://YOUR_CID_HERE/Righteous_Raptor.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Champions of Hope"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Righteous Fury"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Justice Bronze"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Strikes with the precision of a raptor, targeting injustice with righteous force"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Born from the righteous anger BornGifted felt when witnessing injustice against his community"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 10,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Legendary",
+    "faction": "Champions of Hope",
+    "category": "character"
+  }
+}

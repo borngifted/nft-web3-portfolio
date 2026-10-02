@@ -1,0 +1,56 @@
+{
+  "name": "Elysian Express",
+  "description": "Elysian Express is the ultimate journey to inner peace. They carry troubled souls from despair to paradise at lightning speed.",
+  "image": "ipfs://YOUR_CID_HERE/Elysian_Express.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Salvation Squad"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Transport to Peace"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Paradise Teal"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Can transport people from their darkest moments to a place of inner peace"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Created when BornGifted envisioned a vehicle of change that could carry anyone to a better life"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 10,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Legendary",
+    "faction": "The Salvation Squad",
+    "category": "character"
+  }
+}

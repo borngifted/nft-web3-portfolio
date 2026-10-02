@@ -1,0 +1,52 @@
+{
+  "name": "Integrity Incinerator",
+  "description": "Integrity Incinerator sets ablaze all that is false, leaving only the fireproof truth standing.",
+  "image": "ipfs://YOUR_CID_HERE/Integrity_Incinerator.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Integrity Invincibles"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Truth Fire"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Flame Orange"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Burns away corruption and deceit with fires of pure integrity"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Integrity Invincibles",
+    "category": "character"
+  }
+}

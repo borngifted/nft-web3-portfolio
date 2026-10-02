@@ -1,0 +1,56 @@
+{
+  "name": "Seraphic Savior",
+  "description": "Seraphic Savior arrives like an angel in the darkest moments. Their divine presence restores faith in the impossible.",
+  "image": "ipfs://YOUR_CID_HERE/Seraphic_Savior.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Serene Samaritans"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Divine Rescue"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Angelic White"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Descends with angelic grace to save those in their darkest hour, restoring faith and hope"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Born from the purest act of salvation BornGifted ever performed"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 10,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Legendary",
+    "faction": "The Serene Samaritans",
+    "category": "character"
+  }
+}

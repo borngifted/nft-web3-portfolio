@@ -1,0 +1,52 @@
+{
+  "name": "Empathy Enigma",
+  "description": "Empathy Enigma reads souls like open books, understanding pain that words could never express.",
+  "image": "ipfs://YOUR_CID_HERE/Empathy_Enigma.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Empathic Syndicate"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Mysterious Understanding"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Enigma Purple"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "A mysterious figure who somehow understands everyone's deepest feelings without a word being spoken"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Empathic Syndicate",
+    "category": "character"
+  }
+}

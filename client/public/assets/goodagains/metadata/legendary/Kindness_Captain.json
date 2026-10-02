@@ -1,0 +1,56 @@
+{
+  "name": "Kindness Captain",
+  "description": "Kindness Captain leads with empathy and unwavering compassion. Their Quartz rock glows rose gold, symbolizing the warmth they bring to every encounter.",
+  "image": "ipfs://YOUR_CID_HERE/Kindness_Captain.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Benevolent Brigade"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Compassion Aura"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Rose Gold"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Can project an aura of pure kindness that transforms hostile environments into spaces of harmony"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Born from the collective kindness of Jersey City's youth mentors"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 10,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Legendary",
+    "faction": "The Benevolent Brigade",
+    "category": "character"
+  }
+}

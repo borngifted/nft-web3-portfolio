@@ -1,0 +1,52 @@
+{
+  "name": "Trusty Typhoon",
+  "description": "Trusty Typhoon storms through with the overwhelming force of dependability and reliability.",
+  "image": "ipfs://YOUR_CID_HERE/Trusty_Typhoon.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Sympathetic Storm"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Trust Storm"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Ocean Teal"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Creates typhoons of trustworthiness that wash away deceit and build lasting bonds"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Sympathetic Storm",
+    "category": "character"
+  }
+}

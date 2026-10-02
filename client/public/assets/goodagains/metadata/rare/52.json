@@ -1,0 +1,52 @@
+{
+  "name": "Selfless Stunner",
+  "description": "Selfless Stunner's acts of giving are so breathtaking that even villainy pauses to witness their beauty.",
+  "image": "ipfs://YOUR_CID_HERE/Selfless_Stunner.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Selfless Syndicate"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Stunning Selflessness"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Diamond Clear"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Acts of selflessness so stunning they freeze negativity in its tracks"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Selfless Syndicate",
+    "category": "character"
+  }
+}

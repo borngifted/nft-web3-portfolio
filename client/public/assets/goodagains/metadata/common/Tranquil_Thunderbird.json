@@ -1,0 +1,40 @@
+{
+  "name": "Tranquil Thunderbird",
+  "description": "Combines might with calm bringing peaceful resolution.",
+  "image": "ipfs://YOUR_CID_HERE/Tranquil_Thunderbird.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Serene Samaritans"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 4,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Common",
+    "faction": "The Serene Samaritans",
+    "category": "character"
+  }
+}

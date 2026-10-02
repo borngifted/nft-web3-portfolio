@@ -1,0 +1,52 @@
+{
+  "name": "Selfless Swirl",
+  "description": "Selfless Swirl spins like a top of generosity, their centrifugal force spreading kindness outward.",
+  "image": "ipfs://YOUR_CID_HERE/Selfless_Swirl.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Selfless Syndicate"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Selfless Spin"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Humble Brown"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Spins with selfless energy that lifts others up while grounding themselves in humility"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Selfless Syndicate",
+    "category": "character"
+  }
+}

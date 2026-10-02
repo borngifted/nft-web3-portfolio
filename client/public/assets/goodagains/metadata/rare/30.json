@@ -1,0 +1,52 @@
+{
+  "name": "Gracious Guardian",
+  "description": "Gracious Guardian protects with elegance and tact, turning conflict into cooperation.",
+  "image": "ipfs://YOUR_CID_HERE/Gracious_Guardian.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Virtuous Vanguard"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Graceful Protection"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Sapphire Blue"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Shields the vulnerable with unmatched grace and diplomacy"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Virtuous Vanguard",
+    "category": "character"
+  }
+}

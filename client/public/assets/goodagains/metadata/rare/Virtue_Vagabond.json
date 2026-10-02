@@ -1,0 +1,52 @@
+{
+  "name": "Virtue Vagabond",
+  "description": "Virtue Vagabond roams the streets planting invisible seeds of goodness that bloom in their wake.",
+  "image": "ipfs://YOUR_CID_HERE/Virtue_Vagabond.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Virtue Voyagers"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Wandering Virtue"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Trail Dust"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Wanders from place to place, planting seeds of virtue wherever they go"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Virtue Voyagers",
+    "category": "character"
+  }
+}

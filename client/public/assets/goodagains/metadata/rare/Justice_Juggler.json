@@ -1,0 +1,52 @@
+{
+  "name": "Justice Juggler",
+  "description": "Justice Juggler keeps multiple threads of fairness in perfect balance, never dropping a single act of justice.",
+  "image": "ipfs://YOUR_CID_HERE/Justice_Juggler.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Justice Coalition"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Balance Master"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Bronze Gold"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Juggles the scales of justice, keeping perfect balance between mercy and accountability"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Justice Coalition",
+    "category": "character"
+  }
+}

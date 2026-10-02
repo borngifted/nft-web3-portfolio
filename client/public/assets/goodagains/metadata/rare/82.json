@@ -1,0 +1,52 @@
+{
+  "name": "Guiding Guardian",
+  "description": "Guiding Guardian serves as both compass and shield, showing the way while keeping travelers safe.",
+  "image": "ipfs://YOUR_CID_HERE/Guiding_Guardian.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Virtuous Vanguard"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Guided Protection"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Lantern Gold"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Guides lost souls while simultaneously protecting them from harm on their journey"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Virtuous Vanguard",
+    "category": "character"
+  }
+}

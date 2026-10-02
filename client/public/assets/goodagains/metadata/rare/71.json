@@ -1,0 +1,52 @@
+{
+  "name": "Goodwill Gladiator",
+  "description": "Goodwill Gladiator battles in the arena of life, winning hearts and minds through pure acts of goodwill.",
+  "image": "ipfs://YOUR_CID_HERE/Goodwill_Gladiator.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Benevolent Brigade"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Gladiatorial Goodwill"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Arena Bronze"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Fights in the arena of public opinion, championing goodwill with every battle"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Benevolent Brigade",
+    "category": "character"
+  }
+}

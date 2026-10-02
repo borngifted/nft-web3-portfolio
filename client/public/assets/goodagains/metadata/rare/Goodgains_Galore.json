@@ -1,0 +1,52 @@
+{
+  "name": "Goodgains Galore",
+  "description": "Goodgains Galore turns every interaction into an overflowing fountain of positivity and good fortune.",
+  "image": "ipfs://YOUR_CID_HERE/Goodgains_Galore.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Virtuous Vanguard"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Abundance of Good"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Shimmering Gold"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Multiplies positive outcomes exponentially in any situation"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Virtuous Vanguard",
+    "category": "character"
+  }
+}

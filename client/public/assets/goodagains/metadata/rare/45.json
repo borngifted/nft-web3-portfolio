@@ -1,0 +1,52 @@
+{
+  "name": "Virtuous Vortex",
+  "description": "Virtuous Vortex spins with the force of pure virtue, consuming darkness and radiating light.",
+  "image": "ipfs://YOUR_CID_HERE/Virtuous_Vortex.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Virtue Voyagers"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Virtue Spiral"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Prismatic Swirl"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Creates spiraling vortexes of virtue that draw in negativity and transform it into goodness"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Virtue Voyagers",
+    "category": "character"
+  }
+}

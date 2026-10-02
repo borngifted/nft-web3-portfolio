@@ -1,0 +1,52 @@
+{
+  "name": "Benevolent Breeze",
+  "description": "Benevolent Breeze drifts through Jersey City, carrying whispers of hope and acts of kindness on every gust.",
+  "image": "ipfs://YOUR_CID_HERE/Benevolent_Breeze.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Benevolent Brigade"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Gentle Force"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Sky Cyan"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "A gentle wind that carries kindness and healing to every corner of the city"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Benevolent Brigade",
+    "category": "character"
+  }
+}

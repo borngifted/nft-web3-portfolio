@@ -1,0 +1,52 @@
+{
+  "name": "Sincere Cyclone",
+  "description": "Sincere Cyclone sweeps away falsehood and pretense, leaving only authentic truth and genuine connection.",
+  "image": "ipfs://YOUR_CID_HERE/Sincere_Cyclone.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Sympathetic Storm"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Authentic Force"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "True Blue"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "A cyclone of sincerity that strips away pretense and reveals authentic goodness"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Sympathetic Storm",
+    "category": "character"
+  }
+}

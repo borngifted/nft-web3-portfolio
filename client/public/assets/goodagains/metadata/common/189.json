@@ -1,0 +1,40 @@
+{
+  "name": "Compassionate Cyclone",
+  "description": "Generates cyclones of compassion touching every heart.",
+  "image": "ipfs://YOUR_CID_HERE/Compassionate_Cyclone.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Compassionate Collective"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 4,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Common",
+    "faction": "The Compassionate Collective",
+    "category": "character"
+  }
+}

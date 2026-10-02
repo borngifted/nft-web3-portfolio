@@ -1,0 +1,52 @@
+{
+  "name": "Valiant Vortex",
+  "description": "Valiant Vortex spins with the force of pure bravery, converting fear into courage for all nearby.",
+  "image": "ipfs://YOUR_CID_HERE/Valiant_Vortex.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Valiant Brotherhood"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Valor Spiral"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Vortex Indigo"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Creates vortexes of valor that pull in cowardice and transform it into courage"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Valiant Brotherhood",
+    "category": "character"
+  }
+}

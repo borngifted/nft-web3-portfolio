@@ -1,0 +1,52 @@
+{
+  "name": "Justice Juggernaut",
+  "description": "Justice Juggernaut is an unstoppable engine of fairness, barreling through every obstacle between wrong and right.",
+  "image": "ipfs://YOUR_CID_HERE/Justice_Juggernaut.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Justice Coalition"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Unstoppable Justice"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Juggernaut Red"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "An unstoppable force of justice that no amount of corruption can slow down"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Justice Coalition",
+    "category": "character"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Friendly Falcon",
+  "description": "Friendly Falcon flies with purpose, targeting loneliness from above and swooping in with friendship.",
+  "image": "ipfs://YOUR_CID_HERE/Friendly_Falcon.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Selfless Syndicate"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Swift Friendship"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Falcon Brown"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Soars with falcon-like precision, delivering friendship to isolated individuals"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Selfless Syndicate",
+    "category": "character"
+  }
+}

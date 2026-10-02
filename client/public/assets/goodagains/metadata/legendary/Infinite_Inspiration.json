@@ -1,0 +1,56 @@
+{
+  "name": "Infinite Inspiration",
+  "description": "Infinite Inspiration is a wellspring of motivation that never runs dry. They reignite the creative fire in every soul they touch.",
+  "image": "ipfs://YOUR_CID_HERE/Infinite_Inspiration.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Champions of Hope"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Boundless Motivation"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Rainbow Prism"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Provides unlimited inspiration to anyone who has lost their creative spark or will to dream"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Created from every dream BornGifted helped rekindle in the hearts of Jersey City's youth"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 10,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Legendary",
+    "faction": "Champions of Hope",
+    "category": "character"
+  }
+}

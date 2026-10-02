@@ -1,0 +1,1446 @@
+{
+  "collection": "The Goodagains",
+  "total_supply": 240,
+  "tokens": {
+    "1": {
+      "name": "Kindness Captain",
+      "rarity": "Legendary",
+      "faction": "The Benevolent Brigade",
+      "db_id": 1
+    },
+    "2": {
+      "name": "Heroic Hailstorm",
+      "rarity": "Legendary",
+      "faction": "The Heroic Enclave",
+      "db_id": 2
+    },
+    "3": {
+      "name": "Altruism Aviator",
+      "rarity": "Legendary",
+      "faction": "The Altruistic Alliance",
+      "db_id": 3
+    },
+    "4": {
+      "name": "Empathy Echo",
+      "rarity": "Legendary",
+      "faction": "The Empathic Syndicate",
+      "db_id": 4
+    },
+    "5": {
+      "name": "Justice Jetsetter",
+      "rarity": "Legendary",
+      "faction": "The Justice Coalition",
+      "db_id": 5
+    },
+    "6": {
+      "name": "Courageous Courier",
+      "rarity": "Legendary",
+      "faction": "The Courageous Coalition",
+      "db_id": 6
+    },
+    "7": {
+      "name": "Goodness Guardian",
+      "rarity": "Legendary",
+      "faction": "Champions of Hope",
+      "db_id": 7
+    },
+    "8": {
+      "name": "Salvation Sprinter",
+      "rarity": "Legendary",
+      "faction": "The Salvation Squad",
+      "db_id": 8
+    },
+    "9": {
+      "name": "Compassionate Cyclone",
+      "rarity": "Legendary",
+      "faction": "The Compassionate Collective",
+      "db_id": 9
+    },
+    "10": {
+      "name": "Generosity Giant",
+      "rarity": "Legendary",
+      "faction": "The Generosity Giants",
+      "db_id": 10
+    },
+    "11": {
+      "name": "Sincere Supersonic",
+      "rarity": "Legendary",
+      "faction": "The Sympathetic Storm",
+      "db_id": 11
+    },
+    "12": {
+      "name": "Empathetic Enchanter",
+      "rarity": "Legendary",
+      "faction": "The Empathic Syndicate",
+      "db_id": 12
+    },
+    "13": {
+      "name": "Trusty Tornado",
+      "rarity": "Legendary",
+      "faction": "The Sympathetic Storm",
+      "db_id": 13
+    },
+    "14": {
+      "name": "Sympathetic Streak",
+      "rarity": "Legendary",
+      "faction": "The Sympathetic Storm",
+      "db_id": 14
+    },
+    "15": {
+      "name": "Luminary Liberator",
+      "rarity": "Legendary",
+      "faction": "The Serene Samaritans",
+      "db_id": 15
+    },
+    "16": {
+      "name": "Equitable Enigma",
+      "rarity": "Legendary",
+      "faction": "The Justice Coalition",
+      "db_id": 16
+    },
+    "17": {
+      "name": "Graceful Guardian",
+      "rarity": "Legendary",
+      "faction": "The Virtuous Vanguard",
+      "db_id": 17
+    },
+    "18": {
+      "name": "Infinite Inspiration",
+      "rarity": "Legendary",
+      "faction": "Champions of Hope",
+      "db_id": 18
+    },
+    "19": {
+      "name": "Radiant Rescuer",
+      "rarity": "Legendary",
+      "faction": "The Salvation Squad",
+      "db_id": 19
+    },
+    "20": {
+      "name": "Elysian Express",
+      "rarity": "Legendary",
+      "faction": "The Salvation Squad",
+      "db_id": 20
+    },
+    "21": {
+      "name": "Noble Nurturer",
+      "rarity": "Legendary",
+      "faction": "The Noble Legion",
+      "db_id": 21
+    },
+    "22": {
+      "name": "Altruistic Astral",
+      "rarity": "Legendary",
+      "faction": "The Altruistic Alliance",
+      "db_id": 22
+    },
+    "23": {
+      "name": "Ethereal Champion",
+      "rarity": "Legendary",
+      "faction": "Champions of Hope",
+      "db_id": 23
+    },
+    "24": {
+      "name": "Heroic Hearth",
+      "rarity": "Legendary",
+      "faction": "The Heroic Enclave",
+      "db_id": 24
+    },
+    "25": {
+      "name": "Noble Nova",
+      "rarity": "Legendary",
+      "faction": "The Noble Legion",
+      "db_id": 25
+    },
+    "26": {
+      "name": "Tranquil Thunderbird",
+      "rarity": "Legendary",
+      "faction": "The Serene Samaritans",
+      "db_id": 26
+    },
+    "27": {
+      "name": "Seraphic Savior",
+      "rarity": "Legendary",
+      "faction": "The Serene Samaritans",
+      "db_id": 27
+    },
+    "28": {
+      "name": "Righteous Raptor",
+      "rarity": "Legendary",
+      "faction": "Champions of Hope",
+      "db_id": 28
+    },
+    "29": {
+      "name": "Goodgains Galore",
+      "rarity": "Rare",
+      "faction": "The Virtuous Vanguard",
+      "db_id": 29
+    },
+    "30": {
+      "name": "Gracious Guardian",
+      "rarity": "Rare",
+      "faction": "The Virtuous Vanguard",
+      "db_id": 30
+    },
+    "31": {
+      "name": "Gains Grappler",
+      "rarity": "Rare",
+      "faction": "The Virtuous Vanguard",
+      "db_id": 31
+    },
+    "32": {
+      "name": "Guiding Glory",
+      "rarity": "Rare",
+      "faction": "The Virtuous Vanguard",
+      "db_id": 32
+    },
+    "33": {
+      "name": "The Great Goodie",
+      "rarity": "Rare",
+      "faction": "The Virtuous Vanguard",
+      "db_id": 33
+    },
+    "34": {
+      "name": "Wholesome Warrior",
+      "rarity": "Rare",
+      "faction": "The Virtuous Vanguard",
+      "db_id": 34
+    },
+    "35": {
+      "name": "Hero with a Heart",
+      "rarity": "Rare",
+      "faction": "The Heroic Enclave",
+      "db_id": 35
+    },
+    "36": {
+      "name": "Noble of Noteworthy",
+      "rarity": "Rare",
+      "faction": "The Noble Legion",
+      "db_id": 36
+    },
+    "37": {
+      "name": "Morally Miraculous",
+      "rarity": "Rare",
+      "faction": "The Morally Marvelous",
+      "db_id": 37
+    },
+    "38": {
+      "name": "Righteous Rocket",
+      "rarity": "Rare",
+      "faction": "Champions of Hope",
+      "db_id": 38
+    },
+    "39": {
+      "name": "Benevolent Breeze",
+      "rarity": "Rare",
+      "faction": "The Benevolent Brigade",
+      "db_id": 39
+    },
+    "40": {
+      "name": "Empathic Dynamo",
+      "rarity": "Rare",
+      "faction": "The Empathic Syndicate",
+      "db_id": 40
+    },
+    "41": {
+      "name": "Justice Juggler",
+      "rarity": "Rare",
+      "faction": "The Justice Coalition",
+      "db_id": 41
+    },
+    "42": {
+      "name": "Compassion Captain",
+      "rarity": "Rare",
+      "faction": "The Compassionate Collective",
+      "db_id": 42
+    },
+    "43": {
+      "name": "Goodwill Gusto",
+      "rarity": "Rare",
+      "faction": "The Benevolent Brigade",
+      "db_id": 43
+    },
+    "44": {
+      "name": "Salvation Speedster",
+      "rarity": "Rare",
+      "faction": "The Salvation Squad",
+      "db_id": 44
+    },
+    "45": {
+      "name": "Virtuous Vortex",
+      "rarity": "Rare",
+      "faction": "The Virtue Voyagers",
+      "db_id": 45
+    },
+    "46": {
+      "name": "Sincere Cyclone",
+      "rarity": "Rare",
+      "faction": "The Sympathetic Storm",
+      "db_id": 46
+    },
+    "47": {
+      "name": "Honor-bound Hero",
+      "rarity": "Rare",
+      "faction": "The Honor-bound Heroes",
+      "db_id": 47
+    },
+    "48": {
+      "name": "Trusty Typhoon",
+      "rarity": "Rare",
+      "faction": "The Sympathetic Storm",
+      "db_id": 48
+    },
+    "49": {
+      "name": "Sympathetic Sonic",
+      "rarity": "Rare",
+      "faction": "The Sympathetic Storm",
+      "db_id": 49
+    },
+    "50": {
+      "name": "Friendly Flash",
+      "rarity": "Rare",
+      "faction": "The Selfless Syndicate",
+      "db_id": 50
+    },
+    "51": {
+      "name": "Virtue Voyager",
+      "rarity": "Rare",
+      "faction": "The Virtue Voyagers",
+      "db_id": 51
+    },
+    "52": {
+      "name": "Selfless Stunner",
+      "rarity": "Rare",
+      "faction": "The Selfless Syndicate",
+      "db_id": 52
+    },
+    "53": {
+      "name": "Goodness Geyser",
+      "rarity": "Rare",
+      "faction": "The Generosity Giants",
+      "db_id": 53
+    },
+    "54": {
+      "name": "Benevolence Blazer",
+      "rarity": "Rare",
+      "faction": "The Benevolent Brigade",
+      "db_id": 54
+    },
+    "55": {
+      "name": "Valiant Vagabond",
+      "rarity": "Rare",
+      "faction": "The Valiant Brotherhood",
+      "db_id": 55
+    },
+    "56": {
+      "name": "Noble Knight",
+      "rarity": "Rare",
+      "faction": "The Noble Legion",
+      "db_id": 56
+    },
+    "57": {
+      "name": "Integrity Invincible",
+      "rarity": "Rare",
+      "faction": "The Integrity Invincibles",
+      "db_id": 57
+    },
+    "58": {
+      "name": "Kindness Commander",
+      "rarity": "Rare",
+      "faction": "The Benevolent Brigade",
+      "db_id": 58
+    },
+    "59": {
+      "name": "Heroic Harmony",
+      "rarity": "Rare",
+      "faction": "The Heroic Enclave",
+      "db_id": 59
+    },
+    "60": {
+      "name": "Altruism Arrow",
+      "rarity": "Rare",
+      "faction": "The Altruistic Alliance",
+      "db_id": 60
+    },
+    "61": {
+      "name": "Empathy Emissary",
+      "rarity": "Rare",
+      "faction": "The Empathic Syndicate",
+      "db_id": 61
+    },
+    "62": {
+      "name": "Justice Jester",
+      "rarity": "Rare",
+      "faction": "The Justice Coalition",
+      "db_id": 62
+    },
+    "63": {
+      "name": "Courageous Conqueror",
+      "rarity": "Rare",
+      "faction": "The Courageous Coalition",
+      "db_id": 63
+    },
+    "64": {
+      "name": "Goodness Guardian",
+      "rarity": "Rare",
+      "faction": "Champions of Hope",
+      "db_id": 64
+    },
+    "65": {
+      "name": "Salvation Sprinter",
+      "rarity": "Rare",
+      "faction": "The Salvation Squad",
+      "db_id": 65
+    },
+    "66": {
+      "name": "Compassionate Cyclone",
+      "rarity": "Rare",
+      "faction": "The Compassionate Collective",
+      "db_id": 66
+    },
+    "67": {
+      "name": "Generosity Giant",
+      "rarity": "Rare",
+      "faction": "The Generosity Giants",
+      "db_id": 67
+    },
+    "68": {
+      "name": "Sincere Supersonic",
+      "rarity": "Rare",
+      "faction": "The Sympathetic Storm",
+      "db_id": 68
+    },
+    "69": {
+      "name": "Honourable Hornet",
+      "rarity": "Rare",
+      "faction": "The Honor-bound Heroes",
+      "db_id": 69
+    },
+    "70": {
+      "name": "Sympathetic Storm",
+      "rarity": "Rare",
+      "faction": "The Sympathetic Storm",
+      "db_id": 70
+    },
+    "71": {
+      "name": "Goodwill Gladiator",
+      "rarity": "Rare",
+      "faction": "The Benevolent Brigade",
+      "db_id": 71
+    },
+    "72": {
+      "name": "Heroic Hurricane",
+      "rarity": "Rare",
+      "faction": "The Heroic Enclave",
+      "db_id": 72
+    },
+    "73": {
+      "name": "Courageous Crusader",
+      "rarity": "Rare",
+      "faction": "The Courageous Coalition",
+      "db_id": 73
+    },
+    "74": {
+      "name": "Goodness Glider",
+      "rarity": "Rare",
+      "faction": "Champions of Hope",
+      "db_id": 74
+    },
+    "75": {
+      "name": "Salvation Surge",
+      "rarity": "Rare",
+      "faction": "The Salvation Squad",
+      "db_id": 75
+    },
+    "76": {
+      "name": "Noble Nightfall",
+      "rarity": "Rare",
+      "faction": "The Noble Legion",
+      "db_id": 76
+    },
+    "77": {
+      "name": "Integrity Incinerator",
+      "rarity": "Rare",
+      "faction": "The Integrity Invincibles",
+      "db_id": 77
+    },
+    "78": {
+      "name": "Kindness Kingpin",
+      "rarity": "Rare",
+      "faction": "The Benevolent Brigade",
+      "db_id": 78
+    },
+    "79": {
+      "name": "Altruism Aero",
+      "rarity": "Rare",
+      "faction": "The Altruistic Alliance",
+      "db_id": 79
+    },
+    "80": {
+      "name": "Empathy Enigma",
+      "rarity": "Rare",
+      "faction": "The Empathic Syndicate",
+      "db_id": 80
+    },
+    "81": {
+      "name": "Justice Juggernaut",
+      "rarity": "Rare",
+      "faction": "The Justice Coalition",
+      "db_id": 81
+    },
+    "82": {
+      "name": "Guiding Guardian",
+      "rarity": "Rare",
+      "faction": "The Virtuous Vanguard",
+      "db_id": 82
+    },
+    "83": {
+      "name": "Valiant Vortex",
+      "rarity": "Rare",
+      "faction": "The Valiant Brotherhood",
+      "db_id": 83
+    },
+    "84": {
+      "name": "Friendly Falcon",
+      "rarity": "Rare",
+      "faction": "The Selfless Syndicate",
+      "db_id": 84
+    },
+    "85": {
+      "name": "Virtue Vagabond",
+      "rarity": "Rare",
+      "faction": "The Virtue Voyagers",
+      "db_id": 85
+    },
+    "86": {
+      "name": "Selfless Swirl",
+      "rarity": "Rare",
+      "faction": "The Selfless Syndicate",
+      "db_id": 86
+    },
+    "87": {
+      "name": "Benevolent Blaze",
+      "rarity": "Rare",
+      "faction": "The Benevolent Brigade",
+      "db_id": 87
+    },
+    "88": {
+      "name": "Goodgains Galore",
+      "rarity": "Common",
+      "faction": "The Virtuous Vanguard",
+      "db_id": 88
+    },
+    "89": {
+      "name": "Gracious Guardian",
+      "rarity": "Common",
+      "faction": "The Virtuous Vanguard",
+      "db_id": 89
+    },
+    "90": {
+      "name": "Gains Grappler",
+      "rarity": "Common",
+      "faction": "The Virtuous Vanguard",
+      "db_id": 90
+    },
+    "91": {
+      "name": "Guiding Glory",
+      "rarity": "Common",
+      "faction": "The Virtuous Vanguard",
+      "db_id": 91
+    },
+    "92": {
+      "name": "Benevolence Blazer",
+      "rarity": "Common",
+      "faction": "The Benevolent Brigade",
+      "db_id": 92
+    },
+    "93": {
+      "name": "Valiant Vagabond",
+      "rarity": "Common",
+      "faction": "The Valiant Brotherhood",
+      "db_id": 93
+    },
+    "94": {
+      "name": "Noble Nightfall",
+      "rarity": "Common",
+      "faction": "The Noble Legion",
+      "db_id": 94
+    },
+    "95": {
+      "name": "Sympathetic Sonic",
+      "rarity": "Common",
+      "faction": "The Sympathetic Storm",
+      "db_id": 95
+    },
+    "96": {
+      "name": "Kindness Commander",
+      "rarity": "Common",
+      "faction": "The Benevolent Brigade",
+      "db_id": 96
+    },
+    "97": {
+      "name": "Heroic Harmony",
+      "rarity": "Common",
+      "faction": "The Heroic Enclave",
+      "db_id": 97
+    },
+    "98": {
+      "name": "Salvation Sprinter",
+      "rarity": "Common",
+      "faction": "The Salvation Squad",
+      "db_id": 98
+    },
+    "99": {
+      "name": "Compassionate Cyclone",
+      "rarity": "Common",
+      "faction": "The Compassionate Collective",
+      "db_id": 99
+    },
+    "100": {
+      "name": "Generosity Giant",
+      "rarity": "Common",
+      "faction": "The Generosity Giants",
+      "db_id": 100
+    },
+    "101": {
+      "name": "Virtue Vagabond",
+      "rarity": "Common",
+      "faction": "The Virtue Voyagers",
+      "db_id": 101
+    },
+    "102": {
+      "name": "Selfless Swirl",
+      "rarity": "Common",
+      "faction": "The Selfless Syndicate",
+      "db_id": 102
+    },
+    "103": {
+      "name": "Benevolent Blaze",
+      "rarity": "Common",
+      "faction": "The Benevolent Brigade",
+      "db_id": 103
+    },
+    "104": {
+      "name": "Honourable Hornet",
+      "rarity": "Common",
+      "faction": "The Honor-bound Heroes",
+      "db_id": 104
+    },
+    "105": {
+      "name": "Trusty Typhoon",
+      "rarity": "Common",
+      "faction": "The Sympathetic Storm",
+      "db_id": 105
+    },
+    "106": {
+      "name": "Sympathetic Storm",
+      "rarity": "Common",
+      "faction": "The Sympathetic Storm",
+      "db_id": 106
+    },
+    "107": {
+      "name": "Friendly Falcon",
+      "rarity": "Common",
+      "faction": "The Selfless Syndicate",
+      "db_id": 107
+    },
+    "108": {
+      "name": "Goodwill Gladiator",
+      "rarity": "Common",
+      "faction": "The Benevolent Brigade",
+      "db_id": 108
+    },
+    "109": {
+      "name": "Valiant Vortex",
+      "rarity": "Common",
+      "faction": "The Valiant Brotherhood",
+      "db_id": 109
+    },
+    "110": {
+      "name": "Noble Nightfall",
+      "rarity": "Common",
+      "faction": "The Noble Legion",
+      "db_id": 110
+    },
+    "111": {
+      "name": "Integrity Incinerator",
+      "rarity": "Common",
+      "faction": "The Integrity Invincibles",
+      "db_id": 111
+    },
+    "112": {
+      "name": "Kindness Kingpin",
+      "rarity": "Common",
+      "faction": "The Benevolent Brigade",
+      "db_id": 112
+    },
+    "113": {
+      "name": "Heroic Hurricane",
+      "rarity": "Common",
+      "faction": "The Heroic Enclave",
+      "db_id": 113
+    },
+    "114": {
+      "name": "Altruism Aero",
+      "rarity": "Common",
+      "faction": "The Altruistic Alliance",
+      "db_id": 114
+    },
+    "115": {
+      "name": "Empathy Enigma",
+      "rarity": "Common",
+      "faction": "The Empathic Syndicate",
+      "db_id": 115
+    },
+    "116": {
+      "name": "Justice Juggernaut",
+      "rarity": "Common",
+      "faction": "The Justice Coalition",
+      "db_id": 116
+    },
+    "117": {
+      "name": "Courageous Crusader",
+      "rarity": "Common",
+      "faction": "The Courageous Coalition",
+      "db_id": 117
+    },
+    "118": {
+      "name": "Goodness Glider",
+      "rarity": "Common",
+      "faction": "Champions of Hope",
+      "db_id": 118
+    },
+    "119": {
+      "name": "Salvation Surge",
+      "rarity": "Common",
+      "faction": "The Salvation Squad",
+      "db_id": 119
+    },
+    "120": {
+      "name": "Compassionate Comet",
+      "rarity": "Common",
+      "faction": "The Compassionate Collective",
+      "db_id": 120
+    },
+    "121": {
+      "name": "Generosity Goliath",
+      "rarity": "Common",
+      "faction": "The Generosity Giants",
+      "db_id": 121
+    },
+    "122": {
+      "name": "Sincere Sonic",
+      "rarity": "Common",
+      "faction": "The Sympathetic Storm",
+      "db_id": 122
+    },
+    "123": {
+      "name": "Honourable Harrier",
+      "rarity": "Common",
+      "faction": "The Honor-bound Heroes",
+      "db_id": 123
+    },
+    "124": {
+      "name": "Trusty Tidal Wave",
+      "rarity": "Common",
+      "faction": "The Sympathetic Storm",
+      "db_id": 124
+    },
+    "125": {
+      "name": "Sympathetic Speed",
+      "rarity": "Common",
+      "faction": "The Sympathetic Storm",
+      "db_id": 125
+    },
+    "126": {
+      "name": "Friendly Flicker",
+      "rarity": "Common",
+      "faction": "The Selfless Syndicate",
+      "db_id": 126
+    },
+    "127": {
+      "name": "Virtue Viper",
+      "rarity": "Common",
+      "faction": "The Virtue Voyagers",
+      "db_id": 127
+    },
+    "128": {
+      "name": "Selfless Serpent",
+      "rarity": "Common",
+      "faction": "The Selfless Syndicate",
+      "db_id": 128
+    },
+    "129": {
+      "name": "Goodwill Glider",
+      "rarity": "Common",
+      "faction": "The Benevolent Brigade",
+      "db_id": 129
+    },
+    "130": {
+      "name": "Benevolent Bolt",
+      "rarity": "Common",
+      "faction": "The Benevolent Brigade",
+      "db_id": 130
+    },
+    "131": {
+      "name": "Valiant Velocity",
+      "rarity": "Common",
+      "faction": "The Valiant Brotherhood",
+      "db_id": 131
+    },
+    "132": {
+      "name": "Noble Nightshade",
+      "rarity": "Common",
+      "faction": "The Noble Legion",
+      "db_id": 132
+    },
+    "133": {
+      "name": "Integrity Incognito",
+      "rarity": "Common",
+      "faction": "The Integrity Invincibles",
+      "db_id": 133
+    },
+    "134": {
+      "name": "Kindness Captain",
+      "rarity": "Common",
+      "faction": "The Benevolent Brigade",
+      "db_id": 134
+    },
+    "135": {
+      "name": "Heroic Heat",
+      "rarity": "Common",
+      "faction": "The Heroic Enclave",
+      "db_id": 135
+    },
+    "136": {
+      "name": "Altruism Aerobat",
+      "rarity": "Common",
+      "faction": "The Altruistic Alliance",
+      "db_id": 136
+    },
+    "137": {
+      "name": "Empathy Echo",
+      "rarity": "Common",
+      "faction": "The Empathic Syndicate",
+      "db_id": 137
+    },
+    "138": {
+      "name": "Justice Jetstream",
+      "rarity": "Common",
+      "faction": "The Justice Coalition",
+      "db_id": 138
+    },
+    "139": {
+      "name": "Courageous Charger",
+      "rarity": "Common",
+      "faction": "The Courageous Coalition",
+      "db_id": 139
+    },
+    "140": {
+      "name": "Goodness Guardian",
+      "rarity": "Common",
+      "faction": "Champions of Hope",
+      "db_id": 140
+    },
+    "141": {
+      "name": "Salvation Soarer",
+      "rarity": "Common",
+      "faction": "The Salvation Squad",
+      "db_id": 141
+    },
+    "142": {
+      "name": "Compassionate Cannonball",
+      "rarity": "Common",
+      "faction": "The Compassionate Collective",
+      "db_id": 142
+    },
+    "143": {
+      "name": "Generosity Geyser",
+      "rarity": "Common",
+      "faction": "The Generosity Giants",
+      "db_id": 143
+    },
+    "144": {
+      "name": "Sincere Speedy",
+      "rarity": "Common",
+      "faction": "The Sympathetic Storm",
+      "db_id": 144
+    },
+    "145": {
+      "name": "Honourable Hurricane",
+      "rarity": "Common",
+      "faction": "The Honor-bound Heroes",
+      "db_id": 145
+    },
+    "146": {
+      "name": "Trusty Tumult",
+      "rarity": "Common",
+      "faction": "The Sympathetic Storm",
+      "db_id": 146
+    },
+    "147": {
+      "name": "Sympathetic Surge",
+      "rarity": "Common",
+      "faction": "The Sympathetic Storm",
+      "db_id": 147
+    },
+    "148": {
+      "name": "Friendly Flyer",
+      "rarity": "Common",
+      "faction": "The Selfless Syndicate",
+      "db_id": 148
+    },
+    "149": {
+      "name": "Selfless Swoosh",
+      "rarity": "Common",
+      "faction": "The Selfless Syndicate",
+      "db_id": 149
+    },
+    "150": {
+      "name": "Goodwill Geyser",
+      "rarity": "Common",
+      "faction": "The Benevolent Brigade",
+      "db_id": 150
+    },
+    "151": {
+      "name": "Noble Night",
+      "rarity": "Common",
+      "faction": "The Noble Legion",
+      "db_id": 151
+    },
+    "152": {
+      "name": "Noble Nightingale",
+      "rarity": "Common",
+      "faction": "The Noble Legion",
+      "db_id": 152
+    },
+    "153": {
+      "name": "Integrity Invincible",
+      "rarity": "Common",
+      "faction": "The Integrity Invincibles",
+      "db_id": 153
+    },
+    "154": {
+      "name": "Kindness King",
+      "rarity": "Common",
+      "faction": "The Benevolent Brigade",
+      "db_id": 154
+    },
+    "155": {
+      "name": "Heroic Hailstorm",
+      "rarity": "Common",
+      "faction": "The Heroic Enclave",
+      "db_id": 155
+    },
+    "156": {
+      "name": "Altruism Arrow",
+      "rarity": "Common",
+      "faction": "The Altruistic Alliance",
+      "db_id": 156
+    },
+    "157": {
+      "name": "Empathy Energizer",
+      "rarity": "Common",
+      "faction": "The Empathic Syndicate",
+      "db_id": 157
+    },
+    "158": {
+      "name": "Morally Magnificent",
+      "rarity": "Common",
+      "faction": "The Morally Marvelous",
+      "db_id": 158
+    },
+    "159": {
+      "name": "Righteous Rocketeer",
+      "rarity": "Common",
+      "faction": "Champions of Hope",
+      "db_id": 159
+    },
+    "160": {
+      "name": "Benevolent Breeze",
+      "rarity": "Common",
+      "faction": "The Benevolent Brigade",
+      "db_id": 160
+    },
+    "161": {
+      "name": "Guiding Guardian",
+      "rarity": "Common",
+      "faction": "The Virtuous Vanguard",
+      "db_id": 161
+    },
+    "162": {
+      "name": "The Great Goodie",
+      "rarity": "Common",
+      "faction": "The Virtuous Vanguard",
+      "db_id": 162
+    },
+    "163": {
+      "name": "Wholesome Warrior",
+      "rarity": "Common",
+      "faction": "The Virtuous Vanguard",
+      "db_id": 163
+    },
+    "164": {
+      "name": "Hero with a Heart",
+      "rarity": "Common",
+      "faction": "The Heroic Enclave",
+      "db_id": 164
+    },
+    "165": {
+      "name": "Noble of Noteworthy",
+      "rarity": "Common",
+      "faction": "The Noble Legion",
+      "db_id": 165
+    },
+    "166": {
+      "name": "Morally Miraculous",
+      "rarity": "Common",
+      "faction": "The Morally Marvelous",
+      "db_id": 166
+    },
+    "167": {
+      "name": "Righteous Rocket",
+      "rarity": "Common",
+      "faction": "Champions of Hope",
+      "db_id": 167
+    },
+    "168": {
+      "name": "Virtuous Vortex",
+      "rarity": "Common",
+      "faction": "The Virtue Voyagers",
+      "db_id": 168
+    },
+    "169": {
+      "name": "Sincere Cyclone",
+      "rarity": "Common",
+      "faction": "The Sympathetic Storm",
+      "db_id": 169
+    },
+    "170": {
+      "name": "Honor-bound Hero",
+      "rarity": "Common",
+      "faction": "The Honor-bound Heroes",
+      "db_id": 170
+    },
+    "171": {
+      "name": "Trusty Tornado",
+      "rarity": "Common",
+      "faction": "The Sympathetic Storm",
+      "db_id": 171
+    },
+    "172": {
+      "name": "Sympathetic Sonic",
+      "rarity": "Common",
+      "faction": "The Sympathetic Storm",
+      "db_id": 172
+    },
+    "173": {
+      "name": "Friendly Flash",
+      "rarity": "Common",
+      "faction": "The Selfless Syndicate",
+      "db_id": 173
+    },
+    "174": {
+      "name": "Virtue Voyager",
+      "rarity": "Common",
+      "faction": "The Virtue Voyagers",
+      "db_id": 174
+    },
+    "175": {
+      "name": "Selfless Stunner",
+      "rarity": "Common",
+      "faction": "The Selfless Syndicate",
+      "db_id": 175
+    },
+    "176": {
+      "name": "Goodness Geyser",
+      "rarity": "Common",
+      "faction": "The Generosity Giants",
+      "db_id": 176
+    },
+    "177": {
+      "name": "Benevolence Blazer",
+      "rarity": "Common",
+      "faction": "The Benevolent Brigade",
+      "db_id": 177
+    },
+    "178": {
+      "name": "Valiant Vagabond",
+      "rarity": "Common",
+      "faction": "The Valiant Brotherhood",
+      "db_id": 178
+    },
+    "179": {
+      "name": "Noble Knight",
+      "rarity": "Common",
+      "faction": "The Noble Legion",
+      "db_id": 179
+    },
+    "180": {
+      "name": "Integrity Invincible",
+      "rarity": "Common",
+      "faction": "The Integrity Invincibles",
+      "db_id": 180
+    },
+    "181": {
+      "name": "Kindness Commander",
+      "rarity": "Common",
+      "faction": "The Benevolent Brigade",
+      "db_id": 181
+    },
+    "182": {
+      "name": "Heroic Harmony",
+      "rarity": "Common",
+      "faction": "The Heroic Enclave",
+      "db_id": 182
+    },
+    "183": {
+      "name": "Altruism Arrow",
+      "rarity": "Common",
+      "faction": "The Altruistic Alliance",
+      "db_id": 183
+    },
+    "184": {
+      "name": "Empathy Emissary",
+      "rarity": "Common",
+      "faction": "The Empathic Syndicate",
+      "db_id": 184
+    },
+    "185": {
+      "name": "Justice Jester",
+      "rarity": "Common",
+      "faction": "The Justice Coalition",
+      "db_id": 185
+    },
+    "186": {
+      "name": "Courageous Conqueror",
+      "rarity": "Common",
+      "faction": "The Courageous Coalition",
+      "db_id": 186
+    },
+    "187": {
+      "name": "Goodness Guardian",
+      "rarity": "Common",
+      "faction": "Champions of Hope",
+      "db_id": 187
+    },
+    "188": {
+      "name": "Salvation Sprinter",
+      "rarity": "Common",
+      "faction": "The Salvation Squad",
+      "db_id": 188
+    },
+    "189": {
+      "name": "Compassionate Cyclone",
+      "rarity": "Common",
+      "faction": "The Compassionate Collective",
+      "db_id": 189
+    },
+    "190": {
+      "name": "Generosity Giant",
+      "rarity": "Common",
+      "faction": "The Generosity Giants",
+      "db_id": 190
+    },
+    "191": {
+      "name": "Sincere Supersonic",
+      "rarity": "Common",
+      "faction": "The Sympathetic Storm",
+      "db_id": 191
+    },
+    "192": {
+      "name": "Honourable Hornet",
+      "rarity": "Common",
+      "faction": "The Honor-bound Heroes",
+      "db_id": 192
+    },
+    "193": {
+      "name": "Trusty Typhoon",
+      "rarity": "Common",
+      "faction": "The Sympathetic Storm",
+      "db_id": 193
+    },
+    "194": {
+      "name": "Sympathetic Storm",
+      "rarity": "Common",
+      "faction": "The Sympathetic Storm",
+      "db_id": 194
+    },
+    "195": {
+      "name": "Friendly Falcon",
+      "rarity": "Common",
+      "faction": "The Selfless Syndicate",
+      "db_id": 195
+    },
+    "196": {
+      "name": "Virtue Vagabond",
+      "rarity": "Common",
+      "faction": "The Virtue Voyagers",
+      "db_id": 196
+    },
+    "197": {
+      "name": "Selfless Spectacle",
+      "rarity": "Common",
+      "faction": "The Selfless Syndicate",
+      "db_id": 197
+    },
+    "198": {
+      "name": "Goodwill Gladiator",
+      "rarity": "Common",
+      "faction": "The Benevolent Brigade",
+      "db_id": 198
+    },
+    "199": {
+      "name": "Benevolent Blaze",
+      "rarity": "Common",
+      "faction": "The Benevolent Brigade",
+      "db_id": 199
+    },
+    "200": {
+      "name": "Valiant Velocity",
+      "rarity": "Common",
+      "faction": "The Valiant Brotherhood",
+      "db_id": 200
+    },
+    "201": {
+      "name": "Noble Nightingale",
+      "rarity": "Common",
+      "faction": "The Noble Legion",
+      "db_id": 201
+    },
+    "202": {
+      "name": "Integrity Invincible",
+      "rarity": "Common",
+      "faction": "The Integrity Invincibles",
+      "db_id": 202
+    },
+    "203": {
+      "name": "Kindness Captain",
+      "rarity": "Common",
+      "faction": "The Benevolent Brigade",
+      "db_id": 203
+    },
+    "204": {
+      "name": "Heroic Hailstorm",
+      "rarity": "Common",
+      "faction": "The Heroic Enclave",
+      "db_id": 204
+    },
+    "205": {
+      "name": "Altruism Aviator",
+      "rarity": "Common",
+      "faction": "The Altruistic Alliance",
+      "db_id": 205
+    },
+    "206": {
+      "name": "Empathy Echo",
+      "rarity": "Common",
+      "faction": "The Empathic Syndicate",
+      "db_id": 206
+    },
+    "207": {
+      "name": "Justice Jetsetter",
+      "rarity": "Common",
+      "faction": "The Justice Coalition",
+      "db_id": 207
+    },
+    "208": {
+      "name": "Courageous Courier",
+      "rarity": "Common",
+      "faction": "The Courageous Coalition",
+      "db_id": 208
+    },
+    "209": {
+      "name": "Goodness Guardian",
+      "rarity": "Common",
+      "faction": "Champions of Hope",
+      "db_id": 209
+    },
+    "210": {
+      "name": "Salvation Sprinter",
+      "rarity": "Common",
+      "faction": "The Salvation Squad",
+      "db_id": 210
+    },
+    "211": {
+      "name": "Compassionate Cyclone",
+      "rarity": "Common",
+      "faction": "The Compassionate Collective",
+      "db_id": 211
+    },
+    "212": {
+      "name": "Generosity Giant",
+      "rarity": "Common",
+      "faction": "The Generosity Giants",
+      "db_id": 212
+    },
+    "213": {
+      "name": "Sincere Supersonic",
+      "rarity": "Common",
+      "faction": "The Sympathetic Storm",
+      "db_id": 213
+    },
+    "214": {
+      "name": "Empathetic Enchanter",
+      "rarity": "Common",
+      "faction": "The Empathic Syndicate",
+      "db_id": 214
+    },
+    "215": {
+      "name": "Trusty Tornado",
+      "rarity": "Common",
+      "faction": "The Sympathetic Storm",
+      "db_id": 215
+    },
+    "216": {
+      "name": "Sympathetic Streak",
+      "rarity": "Common",
+      "faction": "The Sympathetic Storm",
+      "db_id": 216
+    },
+    "217": {
+      "name": "Luminary Liberator",
+      "rarity": "Common",
+      "faction": "The Serene Samaritans",
+      "db_id": 217
+    },
+    "218": {
+      "name": "Equitable Enigma",
+      "rarity": "Common",
+      "faction": "The Justice Coalition",
+      "db_id": 218
+    },
+    "219": {
+      "name": "Graceful Guardian",
+      "rarity": "Common",
+      "faction": "The Virtuous Vanguard",
+      "db_id": 219
+    },
+    "220": {
+      "name": "Infinite Inspiration",
+      "rarity": "Common",
+      "faction": "Champions of Hope",
+      "db_id": 220
+    },
+    "221": {
+      "name": "Radiant Rescuer",
+      "rarity": "Common",
+      "faction": "The Salvation Squad",
+      "db_id": 221
+    },
+    "222": {
+      "name": "Elysian Express",
+      "rarity": "Common",
+      "faction": "The Salvation Squad",
+      "db_id": 222
+    },
+    "223": {
+      "name": "Noble Nurturer",
+      "rarity": "Common",
+      "faction": "The Noble Legion",
+      "db_id": 223
+    },
+    "224": {
+      "name": "Altruistic Astral",
+      "rarity": "Common",
+      "faction": "The Altruistic Alliance",
+      "db_id": 224
+    },
+    "225": {
+      "name": "Ethereal Champion",
+      "rarity": "Common",
+      "faction": "Champions of Hope",
+      "db_id": 225
+    },
+    "226": {
+      "name": "Heroic Hearth",
+      "rarity": "Common",
+      "faction": "The Heroic Enclave",
+      "db_id": 226
+    },
+    "227": {
+      "name": "Noble Nova",
+      "rarity": "Common",
+      "faction": "The Noble Legion",
+      "db_id": 227
+    },
+    "228": {
+      "name": "Tranquil Thunderbird",
+      "rarity": "Common",
+      "faction": "The Serene Samaritans",
+      "db_id": 228
+    },
+    "229": {
+      "name": "Seraphic Savior",
+      "rarity": "Common",
+      "faction": "The Serene Samaritans",
+      "db_id": 229
+    },
+    "230": {
+      "name": "Righteous Raptor",
+      "rarity": "Common",
+      "faction": "Champions of Hope",
+      "db_id": 230
+    },
+    "231": {
+      "name": "Selfless Swoosh",
+      "rarity": "Common",
+      "faction": "The Selfless Syndicate",
+      "db_id": 231
+    },
+    "232": {
+      "name": "Goodwill Geyser",
+      "rarity": "Common",
+      "faction": "The Benevolent Brigade",
+      "db_id": 232
+    },
+    "233": {
+      "name": "Noble Night",
+      "rarity": "Common",
+      "faction": "The Noble Legion",
+      "db_id": 233
+    },
+    "234": {
+      "name": "Altruism Aerobat",
+      "rarity": "Common",
+      "faction": "The Altruistic Alliance",
+      "db_id": 234
+    },
+    "235": {
+      "name": "Empathy Forturnite",
+      "rarity": "Common",
+      "faction": "The Empathic Syndicate",
+      "db_id": 235
+    },
+    "236": {
+      "name": "Knowledge Level",
+      "rarity": "Common",
+      "faction": "Champions of Hope",
+      "db_id": 236
+    },
+    "237": {
+      "name": "Spirital Gooder",
+      "rarity": "Common",
+      "faction": "The Serene Samaritans",
+      "db_id": 237
+    },
+    "238": {
+      "name": "Sheroic Heat",
+      "rarity": "Common",
+      "faction": "The Heroic Enclave",
+      "db_id": 238
+    },
+    "239": {
+      "name": "GroIntegrity Invincible",
+      "rarity": "Common",
+      "faction": "The Integrity Invincibles",
+      "db_id": 239
+    },
+    "240": {
+      "name": "Altruism",
+      "rarity": "Common",
+      "faction": "The Altruistic Alliance",
+      "db_id": 240
+    }
+  }
+}

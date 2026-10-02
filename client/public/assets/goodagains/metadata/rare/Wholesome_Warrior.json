@@ -1,0 +1,52 @@
+{
+  "name": "Wholesome Warrior",
+  "description": "Wholesome Warrior battles darkness with the most powerful weapon of all - genuine wholesomeness.",
+  "image": "ipfs://YOUR_CID_HERE/Wholesome_Warrior.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Virtuous Vanguard"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Wholesome Combat"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Spring Green"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Fights negativity with wholesome energy that heals as it strikes"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Virtuous Vanguard",
+    "category": "character"
+  }
+}

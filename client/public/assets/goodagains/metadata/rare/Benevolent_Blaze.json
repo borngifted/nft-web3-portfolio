@@ -1,0 +1,52 @@
+{
+  "name": "Benevolent Blaze",
+  "description": "Benevolent Blaze burns bright with warmth that heals wounds and melts frozen hearts.",
+  "image": "ipfs://YOUR_CID_HERE/Benevolent_Blaze.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Benevolent Brigade"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Blazing Benevolence"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Warm Flame"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Burns with a warm, benevolent fire that heals rather than harms"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Benevolent Brigade",
+    "category": "character"
+  }
+}

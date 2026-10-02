@@ -1,0 +1,35 @@
+{
+  "name": "The Goodagains",
+  "description": "The Goodagains is an NFT collection born from the heart of Jersey City. It follows the journey of BornGifted (Tyqawn Headen), a young boy who saw the potential for greatness in every person, even those often overlooked or deemed troubled. Through the transformative power of Quartz rocks and unwavering belief in others, BornGifted created extraordinary beings known as the Goodagains - each embodying the hidden talents, dreams, and aspirations of the community.",
+  "image": "ipfs://YOUR_CID_HERE/collection_logo.png",
+  "external_link": "",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "",
+  "symbol": "GOODAGAINS",
+  "total_supply": 240,
+  "categories": [
+    "collectible",
+    "art",
+    "community"
+  ],
+  "rarity_distribution": {
+    "Legendary": {
+      "count": 28,
+      "percentage": "11.67%"
+    },
+    "Rare": {
+      "count": 59,
+      "percentage": "24.58%"
+    },
+    "Common": {
+      "count": 153,
+      "percentage": "63.75%"
+    }
+  },
+  "lore": {
+    "setting": "Jersey City, Hudson County, NJ",
+    "protagonist": "BornGifted (Tyqawn Headen)",
+    "catalyst": "Quartz Rocks",
+    "theme": "Transformation, positivity, and the power of belief in others"
+  }
+}

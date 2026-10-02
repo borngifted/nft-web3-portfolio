@@ -1,0 +1,52 @@
+{
+  "name": "Altruism Arrow",
+  "description": "Altruism Arrow never misses their target, delivering acts of selflessness with pinpoint accuracy.",
+  "image": "ipfs://YOUR_CID_HERE/Altruism_Arrow.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Altruistic Alliance"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Targeted Giving"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Arrow Green"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Fires arrows of altruism that hit their mark with precision, delivering help exactly where needed"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Altruistic Alliance",
+    "category": "character"
+  }
+}

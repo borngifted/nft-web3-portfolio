@@ -1,0 +1,52 @@
+{
+  "name": "Sympathetic Sonic",
+  "description": "Sympathetic Sonic's sound waves carry understanding that heals emotional wounds instantly.",
+  "image": "ipfs://YOUR_CID_HERE/Sympathetic_Sonic.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Sympathetic Storm"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Sonic Sympathy"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Sound Wave Blue"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Emits sonic waves of sympathy that resonate with the pain of others, healing it on contact"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Sympathetic Storm",
+    "category": "character"
+  }
+}

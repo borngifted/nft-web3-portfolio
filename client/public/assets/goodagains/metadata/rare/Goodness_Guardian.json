@@ -1,0 +1,52 @@
+{
+  "name": "Goodness Guardian",
+  "description": "Goodness Guardian watches over the community with tireless dedication, ensuring no spark of goodness goes unprotected.",
+  "image": "ipfs://YOUR_CID_HERE/Goodness_Guardian.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Champions of Hope"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Guardian's Watch"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Guardian Green"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Stands eternal guard over the goodness in every heart, never letting it fade"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "Champions of Hope",
+    "category": "character"
+  }
+}

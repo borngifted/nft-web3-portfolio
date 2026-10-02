@@ -1,0 +1,40 @@
+{
+  "name": "Virtuous Vortex",
+  "description": "Spins with the force of pure virtue and righteousness.",
+  "image": "ipfs://YOUR_CID_HERE/Virtuous_Vortex.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Virtue Voyagers"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 4,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Common",
+    "faction": "The Virtue Voyagers",
+    "category": "character"
+  }
+}

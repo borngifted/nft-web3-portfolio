@@ -1,0 +1,56 @@
+{
+  "name": "Courageous Courier",
+  "description": "Courageous Courier delivers doses of pure bravery to the fearful. Their Quartz rock pulses with the heartbeat of courage.",
+  "image": "ipfs://YOUR_CID_HERE/Courageous_Courier.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Courageous Coalition"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Bravery Transmission"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Crimson Red"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Delivers courage directly to those who need it most, transforming fear into strength"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Created from the bravery of Jersey City's first responders channeled through Quartz"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 10,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Legendary",
+    "faction": "The Courageous Coalition",
+    "category": "character"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Justice Jetsetter",
+  "description": "Justice Jetsetter races across Jersey City ensuring fairness prevails. No injustice is too small or too far to escape their reach.",
+  "image": "ipfs://YOUR_CID_HERE/Justice_Jetsetter.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Justice Coalition"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Swift Justice"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Golden Amber"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Travels at incredible speed to deliver justice and fairness wherever inequality exists"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Emerged when a community activist's passion for justice merged with Quartz energy"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 10,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Legendary",
+    "faction": "The Justice Coalition",
+    "category": "character"
+  }
+}

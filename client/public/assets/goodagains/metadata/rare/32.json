@@ -1,0 +1,52 @@
+{
+  "name": "Guiding Glory",
+  "description": "Guiding Glory is the North Star for lost souls, always pointing toward a brighter future.",
+  "image": "ipfs://YOUR_CID_HERE/Guiding_Glory.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Virtuous Vanguard"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Illuminated Path"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Beacon White"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Lights the way for those lost in darkness, guiding them to their purpose"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Virtuous Vanguard",
+    "category": "character"
+  }
+}

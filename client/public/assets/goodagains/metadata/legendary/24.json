@@ -1,0 +1,56 @@
+{
+  "name": "Heroic Hearth",
+  "description": "Heroic Hearth is the embodiment of home and safety. Their warmth melts away the cold of loneliness and fear.",
+  "image": "ipfs://YOUR_CID_HERE/Heroic_Hearth.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Heroic Enclave"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Warmth & Shelter"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Hearth Red"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Creates warm, safe spaces where healing and growth can happen naturally"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Born from the warmth of every home that opened its doors to those in need in Jersey City"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 10,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Legendary",
+    "faction": "The Heroic Enclave",
+    "category": "character"
+  }
+}

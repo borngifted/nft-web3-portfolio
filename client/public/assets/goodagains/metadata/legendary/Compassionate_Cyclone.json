@@ -1,0 +1,56 @@
+{
+  "name": "Compassionate Cyclone",
+  "description": "Compassionate Cyclone spins with the force of a thousand caring hearts. Their vortex reveals the goodness hidden within even the most troubled souls.",
+  "image": "ipfs://YOUR_CID_HERE/Compassionate_Cyclone.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Compassionate Collective"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Compassion Vortex"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Warm Orange"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Creates swirling vortexes of compassion that draw out the hidden goodness in others"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Formed during a community gathering where compassion literally filled the air"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 10,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Legendary",
+    "faction": "The Compassionate Collective",
+    "category": "character"
+  }
+}

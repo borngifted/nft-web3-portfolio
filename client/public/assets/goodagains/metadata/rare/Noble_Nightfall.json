@@ -1,0 +1,52 @@
+{
+  "name": "Noble Nightfall",
+  "description": "Noble Nightfall watches over the city when darkness falls, a noble sentinel until the sun returns.",
+  "image": "ipfs://YOUR_CID_HERE/Noble_Nightfall.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Noble Legion"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Night Protection"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Midnight Purple"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Guards the community through the darkest hours, ensuring safety until dawn"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Noble Legion",
+    "category": "character"
+  }
+}

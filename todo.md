@@ -1,0 +1,32 @@
+
+- [x] Fix React rendering error: setState() call in render phase (ConnectModal/Hydrate)
+- [x] Fix Vite HMR reload issue in App.tsx
+- [x] Fix missing images on the site (NFT images at /noir are working)
+- [x] Set cinematic intro as default landing page (route "/" to intro)
+- [x] Fix scroll-controlled video playback - videos showing as black screens
+- [x] Fix play() interrupted by load() race condition in ScrollVideo
+- [x] Remove debug artifacts (controls, console logs, test page)
+- [x] Update video order: Scene-1, Scene_1-end, Scene-2, Scene_2-end, ... Scene-7, Scene_7-end
+- [x] Remove play button from cinematic intro
+- [x] Start intro from black space before first video
+- [x] Ensure all videos are scroll-controlled only (no play/pause buttons)
+- [x] Make cinematic intro video transitions match the Goodagains page style
+- [x] Add dynamic animated title on opening black screen that transitions into first video on scroll
+- [x] Add narrative text overlays that tell the story during scroll through video scenes
+- [x] Add ending exploration section after last video to navigate to other portfolio areas
+- [x] Ensure intro does not loop - plays once and ends at exploration section
+- [x] Optimize cinematic intro for mobile phones (typography, spacing, touch)
+- [ ] Optimize portfolio/gallery pages for mobile phones
+- [x] Add landscape mode support when phone is turned horizontally
+- [x] Ensure proper viewport meta tag and orientation handling
+- [x] Fix audio playback not working (replaced broken Pixabay URL with CDN-hosted ambient audio)
+- [x] Fix Noir collection images not showing on portfolio page
+- [x] Upload all ~3,500 Noir collection images to CDN (3,553 files: 323 thumbnails + 1,615 webp + 1,615 avif)
+- [x] Update manifest.json with CDN URLs (all 3,553 paths replaced)
+- [x] Move local images out of project directory to prevent deployment timeout
+- [x] Upload all 237 Goodagains character images to CDN
+- [x] Update goodagains-new/manifest.json with CDN URLs
+- [x] Move goodagains image directories out of project
+- [x] Fix video scroll functionality on Goodagains page (ensured videos are in playable state before seeking)
+- [x] Fix Goodagains manifest loading error (created empty manifest.json - characters array needs to be populated with CDN URLs)
+- [x] Fix Telegram integration for contact form (updated bot token and chat ID, integrated backend with Vite dev server)

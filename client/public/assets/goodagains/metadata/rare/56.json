@@ -1,0 +1,52 @@
+{
+  "name": "Noble Knight",
+  "description": "Noble Knight stands as a fortress of dignity and honor, defending the code of goodness with their Quartz-infused shield.",
+  "image": "ipfs://YOUR_CID_HERE/Noble_Knight.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Noble Legion"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Chivalrous Force"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Armor Silver"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Upholds a code of chivalry that protects the weak and honors the brave"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Noble Legion",
+    "category": "character"
+  }
+}

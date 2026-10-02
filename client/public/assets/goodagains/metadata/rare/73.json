@@ -1,0 +1,52 @@
+{
+  "name": "Courageous Crusader",
+  "description": "Courageous Crusader marches fearlessly into the darkest corners, carrying the banner of hope.",
+  "image": "ipfs://YOUR_CID_HERE/Courageous_Crusader.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Courageous Coalition"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Crusading Courage"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Crusader Red"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Leads crusades of courage against the forces of hopelessness and despair"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Courageous Coalition",
+    "category": "character"
+  }
+}

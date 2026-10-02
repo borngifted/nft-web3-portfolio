@@ -1,0 +1,52 @@
+{
+  "name": "Generosity Giant",
+  "description": "Generosity Giant stands tall with open hands, providing for those in need with gifts as large as their heart.",
+  "image": "ipfs://YOUR_CID_HERE/Generosity_Giant.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Generosity Giants"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Giant Giving"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Giant Green"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Their generosity grows to enormous proportions, providing for entire communities"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Generosity Giants",
+    "category": "character"
+  }
+}

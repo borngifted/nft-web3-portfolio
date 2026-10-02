@@ -1,0 +1,40 @@
+{
+  "name": "Honourable Harrier",
+  "description": "Pursues honor with the persistence of a harrier hawk.",
+  "image": "ipfs://YOUR_CID_HERE/Honourable_Harrier.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Honor-bound Heroes"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 4,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Common",
+    "faction": "The Honor-bound Heroes",
+    "category": "character"
+  }
+}

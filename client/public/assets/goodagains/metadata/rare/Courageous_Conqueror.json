@@ -1,0 +1,52 @@
+{
+  "name": "Courageous Conqueror",
+  "description": "Courageous Conqueror faces every challenge head-on, conquering obstacles that others thought insurmountable.",
+  "image": "ipfs://YOUR_CID_HERE/Courageous_Conqueror.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Courageous Coalition"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Conquering Courage"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Victory Gold"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Conquers fear and adversity with unwavering bravery, inspiring others to stand tall"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Rare",
+    "faction": "The Courageous Coalition",
+    "category": "character"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Tranquil Thunderbird",
+  "description": "Tranquil Thunderbird soars with contradictory beauty - the power of a storm with the serenity of a still lake. They resolve conflicts through peaceful might.",
+  "image": "ipfs://YOUR_CID_HERE/Tranquil_Thunderbird.png",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "The Serene Samaritans"
+    },
+    {
+      "trait_type": "Power Type",
+      "value": "Peaceful Power"
+    },
+    {
+      "trait_type": "Quartz Crystal",
+      "value": "Storm Purple"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Combines the might of thunder with the calm of tranquility, bringing peaceful resolution to conflicts"
+    },
+    {
+      "trait_type": "Origin",
+      "value": "Created when BornGifted found peace in the midst of a thunderstorm while holding his Quartz"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rarity Score",
+      "value": 10,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Series",
+      "value": "Genesis Collection"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "BornGifted (Tyqawn Headen)"
+    },
+    {
+      "trait_type": "Origin City",
+      "value": "Jersey City, NJ"
+    }
+  ],
+  "properties": {
+    "collection": "The Goodagains",
+    "rarity": "Legendary",
+    "faction": "The Serene Samaritans",
+    "category": "character"
+  }
+}
